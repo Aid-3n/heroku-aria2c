@@ -1,5 +1,5 @@
 # Heroku aria2c
-
+# DON'T USE IT ON HEROKU ❌❌
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 > Do not overuse it, or your account might be banned by Heroku.
